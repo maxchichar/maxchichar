@@ -124,12 +124,6 @@ Create leverage.
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/master/github-snake-dark.svg)
-
----
-
 ## 🚀 Featured Projects
 
 <a href="https://github.com/maxchichar">
