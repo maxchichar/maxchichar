@@ -1,8 +1,8 @@
-name: Update GitHub Stats
+name: Auto GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,12 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Refresh Stats
+      - name: Generate Stats SVGs
         run: |
-          curl -s https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=midnight-purple&hide_border=true > stats.svg
-          curl -s https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=midnight-purple&hide_border=true > streak.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=midnight-purple&hide_border=true" > stats.svg
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=midnight-purple&hide_border=true" > streak.svg
 
-      - name: Commit Stats
+      - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
