@@ -143,5 +143,3 @@ Create leverage.
 </div>
 
 ---
-
-Just choose a number.
