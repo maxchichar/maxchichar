@@ -88,13 +88,9 @@ Create infrastructure that generates leverage.
 
 ## 📊 GitHub Intelligence
 
-<div align="center">
+<img height="170" src="./stats.svg" />
+<img height="170" src="./streak.svg" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=midnight-purple&hide_border=true" />
-
-</div>
 
 ---
 
