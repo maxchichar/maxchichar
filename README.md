@@ -6,9 +6,9 @@
 
 ### The Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI-Driven+Software+Developer;System+Builder;Blockchain+%21+Emerging+Tech+Explorer;Critical+Thinker+%7C+Fast+Learner;Building+The+Future" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI-Driven+Software+Developer;System+Builder;Blockchain+%26+Emerging+Tech+Explorer;Critical+Thinker+%7C+Fast+Learner;Building+The+Future" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=maxchichar&color=blueviolet)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🧬 Identity
 
-> Chibueze Charles Maxwell  
+> Chibueze Charles Maxwell
 > Codename: **MAXCHICHAR**
 
 Full-Stack AI-Driven Software Developer in training, focused on building intelligent systems, scalable software, and future-ready digital infrastructure.
@@ -73,13 +73,21 @@ Create infrastructure that generates leverage.
 
 ---
 
+## ⏱ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
 ## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -87,7 +95,7 @@ Create infrastructure that generates leverage.
 
 ## 🧩 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&color=8A2BE2&line=8A2BE2&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxchichar&theme=react-dark&hide_border=true&color=8A2BE2&line=8A2BE2&point=FFFFFF" />
 
 ---
 
@@ -95,7 +103,7 @@ Create infrastructure that generates leverage.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/maxchichar)
 
 </div>
 
@@ -124,13 +132,22 @@ Create leverage.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maxchichar/maxchichar/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/maxchichar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxchichar&repo=Tovo;Opes;Linkedlend;Problio&theme=midnight-purple" />
+</a>
 
 <div align="center">
 
 ### ⭐ Always Building | Always Evolving
 
 </div>
-```
+
+---
+
+Just choose a number.
