@@ -6,7 +6,7 @@
 
 ### The Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI-Driven+Software+Developer;System+Builder;Blockchain+%26+Emerging+Tech+Explorer;Critical+Thinker+%7C+Fast+Learner;Building+The+Future" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI-Driven+Software+Developer;System+Builder;Blockchain+%23+Emerging+Tech+Explorer;Critical+Thinker+%7C+Fast+Learner;Building+The+Future" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxchichar&color=blueviolet)
 
