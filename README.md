@@ -36,6 +36,11 @@ Digital Infrastructure
 
 ---
 
+## 🤖 AI Project Explanations
+
+[View AI Generated Project Summaries](./AI_PROJECT_SUMMARIES.md)
+
+
 ## ⚙️ Developer Philosophy
 
 ```
