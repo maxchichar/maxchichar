@@ -86,13 +86,6 @@ Create infrastructure that generates leverage.
 
 ---
 
-## 📊 GitHub Intelligence
-
-<img height="170" src="./stats.svg" />
-<img height="170" src="./streak.svg" />
-
-
----
 
 ## 🧩 Activity Graph
 
@@ -133,7 +126,7 @@ Create leverage.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/maxchichar/maxchichar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/master/github-snake-dark.svg)
 
 ---
 
