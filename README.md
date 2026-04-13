@@ -23,6 +23,17 @@ Full-Stack AI-Driven Software Developer in training, focused on building intelli
 
 ---
 
+## Quote
+```
+"Stop planning. Stop watching. Stop reading.
+Open your editor and write bad code.
+That's how you become good."
+
+- Chibueze Maxwell
+```
+
+---
+
 ## 🧠 Core Interests
 
 ```txt
