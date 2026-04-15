@@ -131,12 +131,6 @@ Create leverage.
 
 ---
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/maxchichar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxchichar&repo=Tovo;Opes;Linkedlend;Problio&theme=midnight-purple" />
-</a>
-
 <div align="center">
 
 ### ⭐ Always Building | Always Evolving
