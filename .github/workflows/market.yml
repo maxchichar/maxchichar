@@ -1,0 +1,28 @@
+name: Market Engine
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm install
+
+      - run: node generate-chart.js
+
+      - name: Commit updated chart
+        run: |
+          git config user.name "market-bot"
+          git config user.email "bot@github.com"
+          git add assets/market-candles.png
+          git commit -m "auto update market chart" || echo "no changes"
+          git push

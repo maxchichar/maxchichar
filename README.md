@@ -137,4 +137,6 @@ Create leverage.
 
 </div>
 
+![market](https://raw.githubusercontent.com/maxchichar/maxchichar/main/assets/market-candles.png)
+
 ---
