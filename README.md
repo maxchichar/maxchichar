@@ -55,6 +55,7 @@ Execution > Ideas
 Systems > Motivation
 Consistency > Talent
 Long Term > Short Term
+Code > Control
 ```
 
 ---
