@@ -32,6 +32,12 @@ That's how you become good."
 - Chibueze Maxwell
 ```
 
+```
+"Any code that does not produce leverage is a practice code."
+
+- Chibueze Maxwell
+```
+
 ---
 
 ## 🧠 Core Interests
