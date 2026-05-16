@@ -73,6 +73,7 @@ Code > Control
 * Studying Blockchain Architecture
 * Building Real World Projects
 * Creating Scalable Digital Systems
+* Serial Entrepreneur
 
 ---
 
