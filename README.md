@@ -93,12 +93,22 @@ Create infrastructure that generates leverage.
 
 ---
 
-## ⏱ Weekly Coding Activity
+## ⏱ Coding Activity
 
-<!--START_SECTION:waka-->
+### Status
+<!--START_SECTION-->
+<a href="https://codetime.dev"><img alt="CodeTime Status" src="https://codetime.dev/api/widgets/status.svg?uid=36367&theme=dark&style=minimal"></a>
+<!--END_SECTION-->
 
-<!--END_SECTION:waka-->
+### Code Time
+<!--START_SECTION-->
+<a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=9333ea&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36367"></a>
+<!--END_SECTION-->
 
+### Daily Trend Chart
+<!--START_SECTION-->
+<a href="https://codetime.dev"><img alt="CodeTime Trend" src="https://codetime.dev/api/widgets/trend.svg?uid=36367&days=90&theme=dark"></a>
+<!--END_SECTION-->
 ---
 
 
@@ -112,7 +122,13 @@ Create infrastructure that generates leverage.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/maxchichar)
+<a href="https://github.com/maxchichar">
+  <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://x.com/MAXCHICHAR">
+  <img src="https://img.shields.io/badge/X-C084FC?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
