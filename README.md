@@ -126,7 +126,7 @@ Create infrastructure that generates leverage.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxchichar&theme=react-dark&hide_border=true&bg_color=050816&color=C4B5FD&line=8B5CF6&point=22D3EE" alt="Activity Graph" />
 </div>
----
+
 
 ## 🛰️ Digital Presence
 
