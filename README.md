@@ -2,38 +2,35 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=MAXCHICHAR&fontSize=60&fontColor=ffffff)
 
-# The Architect
+<br/><br/>
+<a href="https://github.com/MAXCHICHAR">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=620&height=50&lines=Building+Intelligent+Systems;Engineering+Leverage;AI+%C2%B7+Automation+%C2%B7+Infrastructure;Go+Developer;System+Builder;Blockchain" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI-Driven+Software+Developer;System+Builder;Blockchain+%21+Emerging+Tech+Explorer;Critical+Thinker+%7C+Fast+Learner;Building+The+Future" />
+<sub>◆ &nbsp;Strategic&nbsp; · &nbsp;Calm&nbsp; · &nbsp;Precise&nbsp; · &nbsp;Visionary&nbsp; &nbsp;◆</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxchichar&color=blueviolet)
 
 <br/>
 
-[![Identity](https://img.shields.io/badge/Identity-8A2BE2?style=for-the-badge)](#identity)
+[![About](https://img.shields.io/badge/About-8A2BE2?style=for-the-badge)](#about)
 [![Quote](https://img.shields.io/badge/Quote-8A2BE2?style=for-the-badge)](#quote)
-[![Interests](https://img.shields.io/badge/Interests-8A2BE2?style=for-the-badge)](#core-interests)
-[![Philosophy](https://img.shields.io/badge/Philosophy-8A2BE2?style=for-the-badge)](#developer-philosophy)
-[![Evolution](https://img.shields.io/badge/Evolution-8A2BE2?style=for-the-badge)](#current-evolution)
-
-[![Lore](https://img.shields.io/badge/Lore-9333EA?style=for-the-badge)](#maxchichar-lore)
 [![Stats](https://img.shields.io/badge/Stats-9333EA?style=for-the-badge)](#github-stats--streak)
 [![Activity](https://img.shields.io/badge/Activity-9333EA?style=for-the-badge)](#coding-activity)
-[![Presence](https://img.shields.io/badge/Presence-9333EA?style=for-the-badge)](#digital-presence)
+[![Connect](https://img.shields.io/badge/Connect-9333EA?style=for-the-badge)](#connect)
 [![Skills](https://img.shields.io/badge/Skills-9333EA?style=for-the-badge)](#skill-development-status)
-[![Protocol](https://img.shields.io/badge/Protocol-9333EA?style=for-the-badge)](#maxchichar-protocol)
+
 
 </div>
 
 ---
 
-<h2 id="identity">Identity</h2>
+<h2 id="about">About</h2>
 
-> Chibueze Charles Maxwell
-> Codename: **MAXCHICHAR**
+Software developer focused on AI systems,
+automation, backend engineering and emerging technologies.
 
-Full-Stack AI-Driven Software Developer in training, focused on building intelligent systems, scalable software, and future-ready digital infrastructure.
-
+Currently building scalable digital infrastructure with Go.
 ---
 
 <h2 id="quote">Quote</h2>
@@ -44,77 +41,11 @@ Full-Stack AI-Driven Software Developer in training, focused on building intelli
 
 <table>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
-  <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
-  </tr>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
 </tr>
 </table>
-
-</details>
-
----
-
-<h2 id="core-interests">Core Interests</h2>
-
-```txt
-Artificial Intelligence
-Blockchain & Web3
-Software Engineering
-System Automation
-Emerging Technology
-Digital Infrastructure
-```
-
----
-
-<h2 id="developer-philosophy">Developer Philosophy</h2>
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-```
-Execution > Ideas
-Systems > Motivation
-Consistency > Talent
-Long Term > Short Term
-Code > Control
-```
-
-</details>
-
----
-
-<h2 id="current-evolution">Current Evolution</h2>
-
-* Mastering Full-Stack Development
-* Exploring AI-Driven Engineering
-* Studying Blockchain Architecture
-* Building Real World Projects
-* Creating Scalable Digital Systems
-* Serial Entrepreneur
-
----
-
-<h2 id="maxchichar-lore">MAXCHICHAR Lore</h2>
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-```
-MAXCHICHAR is not just a developer identity.
-It represents a digital empire mindset.
-
-Purple symbolizes vision & creativity.
-Black symbolizes precision & power.
-
-Mission:
-Build systems that outlive effort.
-Create infrastructure that generates leverage.
-```
 
 </details>
 
@@ -148,13 +79,13 @@ Create infrastructure that generates leverage.
 <!--END_SECTION-->
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 
-### Code Time
+
 <!--START_SECTION-->
-<a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=9333ea&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36367"></a>
+<!-- <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=9333ea&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36367"></a> -->
 <!--END_SECTION-->
-</div>
+<!-- </div> -->
 
 <div align="center">
 
@@ -172,7 +103,7 @@ Create infrastructure that generates leverage.
 
 ---
 
-<h2 id="digital-presence">Digital Presence</h2>
+<h2 id="connect">Connect</h2>
 
 <div align="center">
 
@@ -204,23 +135,6 @@ Create infrastructure that generates leverage.
   <!-- <img src="https://img.shields.io/badge/Blockchain-C084FC?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge" />
 </p>
-
-</details>
-
----
-
-<h2 id="maxchichar-protocol">MAXCHICHAR Protocol</h2>
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-```
-Learn aggressively.
-Build consistently.
-Think independently.
-Create leverage.
-```
 
 </details>
 
