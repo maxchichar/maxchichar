@@ -13,18 +13,32 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: maxchichar
-          output_path: profile-assets/github-trophies.svg
+          file: profile-assets/github-trophies.svg
+          theme: radical
+          no-frame: true
+          no-background: true
+          margin-width: 4
+          max-rows: 2
+          max-cols: 3
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile-assets
           git add profile-assets/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update trophy image [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update trophy image [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
