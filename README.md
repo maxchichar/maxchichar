@@ -94,6 +94,26 @@ Create infrastructure that generates leverage.
 
 ---
 
+## 📊 GitHub Stats & Streak
+ 
+<div align="center">
+  
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6" />
+
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=radical&hide_border=true&background=050816&ring=8B5CF6&fire=C084FC&currStreakLabel=C4B5FD" />
+  
+</div>
+
+<div align="center">
+  
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxchichar&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=ffffff" />
+
+
+
+</div>
+
+---
+
 ## ⏱ Coding Activity
 
 <div align="center">
