@@ -1,0 +1,35 @@
+name: Generate Trophy SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate trophy image
+        uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: maxchichar
+          theme: radical
+          no-frame: true
+          no-bg: true
+          margin-w: 4
+          row: 2
+          column: 3
+          outputs-folder: profile-assets/
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-assets/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update trophy image [skip ci]"
+          git push
