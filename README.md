@@ -108,7 +108,7 @@ Create infrastructure that generates leverage.
   
 <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxchichar&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=ffffff" />
 
-
+<img height="165px" src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/github-trophies.svg" />
 
 </div>
 
