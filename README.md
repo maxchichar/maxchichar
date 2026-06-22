@@ -1,9 +1,6 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=MAXCHICHAR&fontSize=60&fontColor=ffffff)
-</div>
-
-<div align="center">
 
 # The Architect
 
@@ -11,11 +8,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxchichar&color=blueviolet)
 
+<br/>
+
+[![Identity](https://img.shields.io/badge/Identity-8A2BE2?style=for-the-badge)](#identity)
+[![Quote](https://img.shields.io/badge/Quote-8A2BE2?style=for-the-badge)](#quote)
+[![Interests](https://img.shields.io/badge/Interests-8A2BE2?style=for-the-badge)](#core-interests)
+[![Philosophy](https://img.shields.io/badge/Philosophy-8A2BE2?style=for-the-badge)](#developer-philosophy)
+[![Evolution](https://img.shields.io/badge/Evolution-8A2BE2?style=for-the-badge)](#current-evolution)
+
+[![Lore](https://img.shields.io/badge/Lore-9333EA?style=for-the-badge)](#maxchichar-lore)
+[![Stats](https://img.shields.io/badge/Stats-9333EA?style=for-the-badge)](#github-stats--streak)
+[![Activity](https://img.shields.io/badge/Activity-9333EA?style=for-the-badge)](#coding-activity)
+[![Presence](https://img.shields.io/badge/Presence-9333EA?style=for-the-badge)](#digital-presence)
+[![Skills](https://img.shields.io/badge/Skills-9333EA?style=for-the-badge)](#skill-development-status)
+[![Protocol](https://img.shields.io/badge/Protocol-9333EA?style=for-the-badge)](#maxchichar-protocol)
+
 </div>
 
 ---
 
-## 🧬 Identity
+<h2 id="identity">Identity</h2>
 
 > Chibueze Charles Maxwell
 > Codename: **MAXCHICHAR**
@@ -24,7 +36,12 @@ Full-Stack AI-Driven Software Developer in training, focused on building intelli
 
 ---
 
-## Quote
+<h2 id="quote">Quote</h2>
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
+
 ```
 "Stop planning. Stop watching. Stop reading.
 Open your editor and write bad code.
@@ -39,9 +56,11 @@ That's how you become good."
 - Chibueze Maxwell
 ```
 
+</details>
+
 ---
 
-## 🧠 Core Interests
+<h2 id="core-interests">Core Interests</h2>
 
 ```txt
 Artificial Intelligence
@@ -50,12 +69,15 @@ Software Engineering
 System Automation
 Emerging Technology
 Digital Infrastructure
-````
+```
 
 ---
 
+<h2 id="developer-philosophy">Developer Philosophy</h2>
 
-## ⚙️ Developer Philosophy
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
 
 ```
 Execution > Ideas
@@ -65,9 +87,11 @@ Long Term > Short Term
 Code > Control
 ```
 
+</details>
+
 ---
 
-## 🚀 Current Evolution
+<h2 id="current-evolution">Current Evolution</h2>
 
 * Mastering Full-Stack Development
 * Exploring AI-Driven Engineering
@@ -78,7 +102,11 @@ Code > Control
 
 ---
 
-## 👑 MAXCHICHAR Lore
+<h2 id="maxchichar-lore">MAXCHICHAR Lore</h2>
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
 
 ```
 MAXCHICHAR is not just a developer identity.
@@ -92,29 +120,29 @@ Build systems that outlive effort.
 Create infrastructure that generates leverage.
 ```
 
+</details>
+
 ---
 
-## 📊 GitHub Stats & Streak
- 
-<div align="center">
-  
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6" />
+<h2 id="github-stats--streak">GitHub Stats & Streak</h2>
 
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6" />
 <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=radical&hide_border=true&background=050816&ring=8B5CF6&fire=C084FC&currStreakLabel=C4B5FD" />
-  
+
 </div>
 
 <div align="center">
-  
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxchichar&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=ffffff" />
 
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxchichar&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=ffffff" />
 <img height="165px" src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/github-trophies.svg" />
 
 </div>
 
 ---
 
-## ⏱ Coding Activity
+<h2 id="coding-activity">Coding Activity</h2>
 
 <div align="center">
   
@@ -140,15 +168,15 @@ Create infrastructure that generates leverage.
 <!--END_SECTION-->
 </div>
 
-
-## 🧩 Activity Graph
+<h2 id="activity-graph">Activity Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxchichar&theme=react-dark&hide_border=true&bg_color=050816&color=C4B5FD&line=8B5CF6&point=22D3EE" alt="Activity Graph" />
 </div>
 
+---
 
-## 🛰️ Digital Presence
+<h2 id="digital-presence">Digital Presence</h2>
 
 <div align="center">
 
@@ -164,17 +192,27 @@ Create infrastructure that generates leverage.
 
 ---
 
-## 🛡️ Skill Development Status
+<h2 id="skill-development-status">Skill Development Status</h2>
 
-🧠 AI Engineering
-🌐 Full Stack Development
-⛓ Blockchain Systems
-⚙️ Automation Architecture
-📚 Continuous Learning
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
+
+* AI Engineering
+* Full Stack Development
+* Blockchain Systems
+* Automation Architecture
+* Continuous Learning
+
+</details>
 
 ---
 
-## ⚡ MAXCHICHAR Protocol
+<h2 id="maxchichar-protocol">MAXCHICHAR Protocol</h2>
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
 
 ```
 Learn aggressively.
@@ -183,36 +221,14 @@ Think independently.
 Create leverage.
 ```
 
+</details>
+
 ---
 
 <div align="center">
 
-```
+<img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/maxchichar-footer.svg" width="600" />
 
-  ▄▖▜            ▄   ▘▜  ▌▘      ▌  ▄▖▜            ▄▖    ▜   ▘    
-  ▌▌▐ ▌▌▌▀▌▌▌▛▘  ▙▘▌▌▌▐ ▛▌▌▛▌▛▌  ▌  ▌▌▐ ▌▌▌▀▌▌▌▛▘  ▙▖▌▌▛▌▐ ▌▌▌▛▌▛▌
-  ▛▌▐▖▚▚▘█▌▙▌▄▌  ▙▘▙▌▌▐▖▙▌▌▌▌▙▌  ▌  ▛▌▐▖▚▚▘█▌▙▌▄▌  ▙▖▚▘▙▌▐▖▚▘▌▌▌▙▌
-           ▄▌                ▄▌  ▘           ▄▌                 ▄▌
-
-```
-
-</div>
-
-<div align="center">
-  
-```
-░▒▓██████████████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓████████▓▒░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-                                                                                                                                    
-                                                                                                                                    
-```
-  
 </div>
 
 ---
-
