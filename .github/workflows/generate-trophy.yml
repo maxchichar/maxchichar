@@ -14,26 +14,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          deno-version: v1.x
-
-      - name: Clone trophy generator source
-        run: git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-src
-
-      - name: Create output folder
-        run: mkdir -p profile-assets
-
-      - name: Generate trophy SVG
-        run: |
-          deno run --allow-net --allow-env --allow-read --allow-write \
-            trophy-src/render_svg.ts maxchichar profile-assets radical
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Rename output file
-        run: mv profile-assets/github-trophy.svg profile-assets/github-trophies.svg || true
+          username: maxchichar
+          output_path: profile-assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
