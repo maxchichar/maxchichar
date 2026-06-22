@@ -29,8 +29,8 @@
 
 Software developer focused on AI systems,
 automation, backend engineering and emerging technologies.
-
 Currently building scalable digital infrastructure with Go.
+
 ---
 
 <h2 id="quote">Quote</h2>
