@@ -1,0 +1,26 @@
+<svg viewBox="0 0 680 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d1257"/>
+      <stop offset="100%" stop-color="#1a0b2e"/>
+    </linearGradient>
+    <linearGradient id="borderGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="676" height="166" rx="16" fill="url(#cardGrad2)" stroke="url(#borderGrad2)" stroke-width="2"/>
+
+  <rect x="2" y="2" width="8" height="166" rx="4" fill="#C4B5FD"/>
+
+  <text x="48" y="50" font-family="Georgia, serif" font-size="46" fill="#8B5CF6" opacity="0.5">&#8220;</text>
+
+  <text x="50" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#E9D5FF" font-style="italic">
+    <tspan x="50" dy="0">Any code that does not produce leverage</tspan>
+    <tspan x="50" dy="30">is a practice code.</tspan>
+  </text>
+
+  <line x1="50" y1="128" x2="120" y2="128" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="50" y="148" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#C4B5FD" font-weight="bold">— Chibueze Maxwell</text>
+</svg>
