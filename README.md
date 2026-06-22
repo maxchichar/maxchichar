@@ -42,19 +42,15 @@ Full-Stack AI-Driven Software Developer in training, focused on building intelli
 <summary><b>Click to expand</b></summary>
 <br/>
 
-```
-"Stop planning. Stop watching. Stop reading.
-Open your editor and write bad code.
-That's how you become good."
-
-- Chibueze Maxwell
-```
-
-```
-"Any code that does not produce leverage is a practice code."
-
-- Chibueze Maxwell
-```
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
+  <tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
+  </tr>
+</tr>
+</table>
 
 </details>
 
@@ -198,11 +194,16 @@ Create infrastructure that generates leverage.
 <summary><b>Click to expand</b></summary>
 <br/>
 
-* AI Engineering
-* Full Stack Development
-* Blockchain Systems
-* Automation Architecture
-* Continuous Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-8B5CF6?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/Full%20Stack-9333EA?style=for-the-badge" /> -->
+  <!-- <img src="https://img.shields.io/badge/Blockchain-C084FC?style=for-the-badge" /> -->
+  <img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge" />
+</p>
 
 </details>
 
