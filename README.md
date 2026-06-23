@@ -1,79 +1,117 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=MAXCHICHAR&fontSize=60&fontColor=ffffff)
+
+<!-- ============ ANIMATED LIQUID HERO ============ -->
+<img src="./profile-assets/hero.svg" width="100%" alt="MAXCHICHAR — Building Intelligent Systems"/>
 
 <br/><br/>
+
+<!-- ============ TYPING ANIMATION ============ -->
 <a href="https://github.com/MAXCHICHAR">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=620&height=50&lines=Building+Intelligent+Systems;Engineering+Leverage;AI+%C2%B7+Automation+%C2%B7+Infrastructure;Go+Developer;System+Builder;Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=620&height=50&lines=Building+Intelligent+Systems;Engineering+Leverage;AI+%C2%B7+Automation+%C2%B7+Infrastructure;Go+Developer;System+Builder" alt="Typing SVG" />
 </a>
 
-<sub>◆ &nbsp;Strategic&nbsp; · &nbsp;Calm&nbsp; · &nbsp;Precise&nbsp; · &nbsp;Visionary&nbsp; &nbsp;◆</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxchichar&color=blueviolet)
 
 <br/>
 
-[![About](https://img.shields.io/badge/About-8A2BE2?style=for-the-badge)](#about)
-[![Quote](https://img.shields.io/badge/Quote-8A2BE2?style=for-the-badge)](#quote)
-[![Stats](https://img.shields.io/badge/Stats-9333EA?style=for-the-badge)](#github-stats--streak)
-[![Activity](https://img.shields.io/badge/Activity-9333EA?style=for-the-badge)](#coding-activity)
-[![Connect](https://img.shields.io/badge/Connect-9333EA?style=for-the-badge)](#connect)
-[![Skills](https://img.shields.io/badge/Skills-9333EA?style=for-the-badge)](#skill-development-status)
-
-
 </div>
 
----
+<br/>
 
-<h2 id="about">About</h2>
+<!-- ============ ABOUT ============ -->
+<div align="center">
 
 Software developer focused on AI systems,
 automation, backend engineering and emerging technologies.
 Currently building scalable digital infrastructure with Go.
 
----
+</div>
 
-<h2 id="quote">Quote</h2>
-
-<details>
-<summary><b>Click to expand</b></summary>
 <br/>
 
-<table>
-<tr>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
-</tr>
+<div align="center">
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+<h3 align="center">Featured Systems</h3>
+<p align="center"><sub>Selected work · architecture-first</sub></p>
+
+<br/>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h4>⬡ &nbsp;CLUSTER SYSTEM</h4>
+        <sub>
+        House-based verification ecosystem with progression architecture, identity, trust, and advancement modeled as a coherent system.
+        </sub>
+        <br/><br/>
+        <a href="https://github.com/MAXCHICHAR/cluster-system"><img src="https://img.shields.io/badge/Explore-8A2BE2?style=for-the-badge&logoColor=white" height="26"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h4>⬡ &nbsp;TOVO</h4>
+        <sub>
+        A digital order management tracker resources and mission control for every order
+        </sub>
+        <br/><br/>
+        <a href="https://github.com/maxchichar/Tovo"><img src="https://img.shields.io/badge/Explore-A855F7?style=for-the-badge&logoColor=white" height="26"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h4>⬡ &nbsp;LIVE RECEIPT</h4>
+        <sub>
+        Turn static receipts into a premium, interactive presentation layer people can actually read and explore.
+        </sub>
+        <br/><br/>
+        <a href="https://github.com/maxchichar/live_receipt"><img src="https://img.shields.io/badge/Explore-C084FC?style=for-the-badge&logoColor=white" height="26"/></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-</details>
+<br/>
 
----
+<div align="center">
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
+</div>
 
-<h2 id="github-stats--streak">GitHub Stats & Streak</h2>
+<br/>
+
+<!-- ============ TECHNOLOGY STACK ============ -->
+<h3 align="center">Technology</h3>
+
+<br/>
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxchichar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6" />
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=radical&hide_border=true&background=050816&ring=8B5CF6&fire=C084FC&currStreakLabel=C4B5FD" />
+<img src="https://img.shields.io/badge/Go-050816?style=for-the-badge&logo=go&logoColor=00ADD8" height="36"/>
+<img src="https://img.shields.io/badge/AI%20Systems-050816?style=for-the-badge&logo=openai&logoColor=A855F7" height="36"/>
+<img src="https://img.shields.io/badge/Automation-050816?style=for-the-badge&logo=zapier&logoColor=C084FC" height="36"/>
+<img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="36"/>
+<img src="https://img.shields.io/badge/HTML-050816?style=for-the-badge&logo=html5&logoColor=E34F26" height="36"/>
+<img src="https://img.shields.io/badge/CSS-050816?style=for-the-badge&logo=css3&logoColor=A855F7" height="36"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxchichar&layout=compact&theme=radical&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=ffffff" />
-<img height="165px" src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/github-trophies.svg" />
-
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
 </div>
 
----
+<br/>
 
-<h2 id="coding-activity">Coding Activity</h2>
+<h3 align=center>Tracker</h3>
 
 <div align="center">
-  
-### Status
 <!--START_SECTION-->
 <a href="https://codetime.dev"><img alt="CodeTime Status" src="https://codetime.dev/api/widgets/status.svg?uid=36367&theme=dark&style=minimal"></a>
 <!--END_SECTION-->
@@ -88,62 +126,99 @@ Currently building scalable digital infrastructure with Go.
 <!-- </div> -->
 
 <div align="center">
-
-### Daily Trend Chart
 <!--START_SECTION-->
 <a href="https://codetime.dev"><img alt="CodeTime Trend" src="https://codetime.dev/api/widgets/trend.svg?uid=36367&days=90&theme=dark"></a>
 <!--END_SECTION-->
 </div>
 
-<h2 id="activity-graph">Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxchichar&theme=react-dark&hide_border=true&bg_color=050816&color=C4B5FD&line=8B5CF6&point=22D3EE" alt="Activity Graph" />
-</div>
-
----
-
-<h2 id="connect">Connect</h2>
-
-<div align="center">
-
-<a href="https://github.com/maxchichar">
-  <img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://x.com/MAXCHICHAR">
-  <img src="https://img.shields.io/badge/X-C084FC?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<h2 id="skill-development-status">Skill Development Status</h2>
-
-<details>
-<summary><b>Click to expand</b></summary>
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-8B5CF6?style=for-the-badge" />
-  <!-- <img src="https://img.shields.io/badge/Full%20Stack-9333EA?style=for-the-badge" /> -->
-  <!-- <img src="https://img.shields.io/badge/Blockchain-C084FC?style=for-the-badge" /> -->
-  <img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge" />
-</p>
-
-</details>
-
----
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/maxchichar-footer.svg" width="600" />
-
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
 </div>
 
----
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+<h3 align="center">GitHub Stats & Streak</h3>
+
+<br/>
+<div align="center">
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxchichar&theme=radical&hide_border=true&background=050816&ring=8B5CF6&fire=C084FC&currStreakLabel=C4B5FD" />
+  <img height="165px" src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/github-trophies.svg" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAXCHICHAR&show_icons=true&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&border_radius=14" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXCHICHAR&layout=compact&hide_border=true&bg_color=050816&title_color=A855F7&text_color=E5E7EB&border_radius=14" width="38%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- ============ ACTIVITY GRAPH ============ -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAXCHICHAR&bg_color=050816&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&border_radius=14" width="92%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<h3 align="center">Quote</h3>
+
+<details>
+<summary><b align="center">click</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
+<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
+</tr>
+</table>
+
+</details>
+<br/>
+
+<div align="center">
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ============ DIGITAL PRESENCE ============ -->
+<h3 align="center">Elsewhere</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MAXCHICHAR">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=E5E7EB" height="38"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/MAXCHICHAR">
+    <img src="https://img.shields.io/badge/X-050816?style=for-the-badge&logo=x&logoColor=C084FC" height="38"/>
+  </a>
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+<img src="./profile-assets/divider.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+  <img src="./profile-assets/footer.svg" width="100%" alt="footer"/>
+</div>
+
+</div>
