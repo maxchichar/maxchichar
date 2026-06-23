@@ -1,0 +1,204 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- Base background -->
+    <linearGradient id="bgBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="55%" stop-color="#0B0F23"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <!-- Aurora gradients -->
+    <radialGradient id="aurora1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#8A2BE2" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#A855F7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#C084FC" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glass orb gradients -->
+    <radialGradient id="orbGlass1" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="30%" stop-color="#C084FC" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0.05"/>
+    </radialGradient>
+    <radialGradient id="orbGlass2" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="35%" stop-color="#A855F7" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0.04"/>
+    </radialGradient>
+
+    <!-- Blur filters -->
+    <filter id="blurSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blurStrong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="blurTiny" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <filter id="glassBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6"/>
+    </filter>
+
+    <!-- Text gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F1ECFB"/>
+      <stop offset="100%" stop-color="#D8B8FC"/>
+    </linearGradient>
+
+    <linearGradient id="subtitleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.45"/>
+    </radialGradient>
+
+    <clipPath id="canvasClip">
+      <rect x="0" y="0" width="1400" height="420" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#canvasClip)">
+    <!-- Base -->
+    <rect width="1400" height="420" fill="url(#bgBase)"/>
+
+    <!-- ===== AURORA LAYER (very slow, 28-40s) ===== -->
+    <g filter="url(#blurStrong)" opacity="0.9">
+      <circle cx="280" cy="120" r="260" fill="url(#aurora1)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 60,30; -20,50; 0,0" dur="34s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      </circle>
+      <circle cx="980" cy="260" r="300" fill="url(#aurora2)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -50,-40; 30,20; 0,0" dur="38s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      </circle>
+      <circle cx="700" cy="380" r="240" fill="url(#aurora3)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 40,-20; -40,10; 0,0" dur="30s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      </circle>
+    </g>
+
+    <!-- secondary faint aurora wash for depth -->
+    <g filter="url(#blurStrong)" opacity="0.5">
+      <ellipse cx="1150" cy="80" rx="220" ry="140" fill="url(#aurora3)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -30,40; 0,0" dur="40s" repeatCount="indefinite" calcMode="spline"
+          keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      </ellipse>
+    </g>
+
+    <!-- ===== FLOATING PARTICLES (minimal) ===== -->
+    <g fill="#FFFFFF">
+      <circle cx="180" cy="90" r="1.6" opacity="0.5">
+        <animate attributeName="opacity" values="0.15;0.6;0.15" dur="9s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="430" cy="60" r="1.2" opacity="0.4">
+        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="11s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="980" cy="120" r="1.8" opacity="0.5">
+        <animate attributeName="opacity" values="0.15;0.55;0.15" dur="10s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-16;0,0" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1240" cy="320" r="1.4" opacity="0.4">
+        <animate attributeName="opacity" values="0.1;0.45;0.1" dur="12s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-12;0,0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="90" cy="330" r="1.3" opacity="0.4">
+        <animate attributeName="opacity" values="0.12;0.5;0.12" dur="13s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1320" cy="100" r="1.5" opacity="0.4">
+        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="10.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="15.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- ===== LIQUID GLASS ORBS ===== -->
+    <!-- Orb 1: top right, large -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 0,18; 0,0" dur="12s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      <circle cx="1190" cy="95" r="95" fill="url(#orbGlass1)" filter="url(#glassBlur)"/>
+      <circle cx="1190" cy="95" r="95" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+      <ellipse cx="1162" cy="68" rx="26" ry="14" fill="#FFFFFF" opacity="0.35" filter="url(#blurSoft)"/>
+    </g>
+
+    <!-- Orb 2: lower left, medium -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 0,-16; 0,0" dur="14s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      <circle cx="118" cy="355" r="52" fill="url(#orbGlass2)" filter="url(#glassBlur)"/>
+      <circle cx="118" cy="355" r="52" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1"/>
+      <ellipse cx="102" cy="340" rx="14" ry="8" fill="#FFFFFF" opacity="0.3" filter="url(#blurSoft)"/>
+    </g>
+
+    <!-- Orb 3: far right small, drifting -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; -14,10; 0,0" dur="16s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      <circle cx="1330" cy="260" r="34" fill="url(#orbGlass1)" filter="url(#glassBlur)"/>
+      <circle cx="1330" cy="260" r="34" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="0.8"/>
+    </g>
+
+    <!-- Orb 4: mid-frame, faint, balances composition -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 10,-12; 0,0" dur="18s" repeatCount="indefinite" calcMode="spline"
+        keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      <circle cx="820" cy="345" r="46" fill="url(#orbGlass2)" filter="url(#glassBlur)" opacity="0.6"/>
+      <circle cx="820" cy="345" r="46" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="0.8"/>
+    </g>
+
+    <!-- ===== MOVING LIGHT HIGHLIGHT (Vision Pro sweep) ===== -->
+    <g filter="url(#blurTiny)" opacity="0.5">
+      <rect x="-200" y="0" width="160" height="420" fill="#FFFFFF" opacity="0.04" transform="skewX(-18)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 1800,0" dur="22s" repeatCount="indefinite" additive="sum" calcMode="spline"
+          keySplines="0.3 0 0.7 1"/>
+      </rect>
+    </g>
+
+    <!-- ===== GLASS PANEL behind typography ===== -->
+    <rect x="64" y="120" width="600" height="190" rx="22" fill="#FFFFFF" opacity="0.03"/>
+    <rect x="64" y="120" width="600" height="190" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+
+    <!-- ===== TYPOGRAPHY ===== -->
+    <text x="92" y="222" font-family="'SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="700" fill="url(#titleGradient)" letter-spacing="1">MAXCHICHAR</text>
+
+    <text x="93" y="262" font-family="'SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="500" fill="#E5E7EB" letter-spacing="0.5">Building Intelligent Systems</text>
+
+    <text x="93" y="292" font-family="'SF Mono','Menlo',monospace" font-size="14" font-weight="400" fill="url(#subtitleGradient)" letter-spacing="2.5">AI · AUTOMATION · INFRASTRUCTURE</text>
+
+    <!-- thin accent line -->
+    <rect x="93" y="305" width="64" height="2" rx="1" fill="#A855F7" opacity="0.7"/>
+
+    <!-- ===== Vignette for depth ===== -->
+    <rect width="1400" height="420" fill="url(#vignette)"/>
+
+    <!-- ===== Outer border, hairline ===== -->
+    <rect x="0.5" y="0.5" width="1399" height="419" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  </g>
+</svg>
