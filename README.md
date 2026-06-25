@@ -176,9 +176,11 @@ Currently building scalable digital infrastructure with Go.
 
 <table>
 <tr>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
-<td width="35%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
+<td width="40%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-1.svg" width="100%" /></td>
+<td width="40%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-2.svg" width="100%" /></td>
+  <tr align="center">
+<td width="40%"><img src="https://raw.githubusercontent.com/maxchichar/maxchichar/main/profile-assets/quote-card-3.svg" width="100%" /></td>
+  </tr>
 </tr>
 </table>
 
