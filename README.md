@@ -149,8 +149,9 @@ Currently building scalable digital infrastructure with Go.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAXCHICHAR&show_icons=true&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&border_radius=14" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXCHICHAR&layout=compact&hide_border=true&bg_color=050816&title_color=A855F7&text_color=E5E7EB&border_radius=14" width="38%" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MAXCHICHAR&show_icons=true&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&border_radius=14" width="48%" alt="GitHub Stats"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXCHICHAR&layout=compact&hide_border=true&bg_color=050816&title_color=A855F7&text_color=E5E7EB&border_radius=14" width="38%" alt="Top Languages"/> -->
+  <a href="https://codetime.dev"><img alt="CodeTime Languages" src="https://codetime.dev/api/widgets/donut.svg?uid=36367&days=30&limit=6&theme=dark"></a>
 </div>
 
 <br/>
