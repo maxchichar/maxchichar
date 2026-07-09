@@ -158,7 +158,7 @@ Currently building scalable digital infrastructure with Go.
 
 <!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAXCHICHAR&bg_color=050816&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&border_radius=14" width="92%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxchichar&bg_color=050816&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&border_radius=14" width="92%" alt="Activity Graph"/>
 </div>
 
 <br/>
