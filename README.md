@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ============ ANIMATED LIQUID HERO ============ -->
 <img src="./profile-assets/hero.svg" width="100%" alt="MAXCHICHAR — Building Intelligent Systems"/>
 
