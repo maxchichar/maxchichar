@@ -20,10 +20,7 @@
 <!-- ============ ABOUT ============ -->
 <div align="center">
 
-Software developer focused on AI systems,
-automation, backend engineering and emerging technologies.
-Currently building scalable digital infrastructure with Go.
-
+Building software, AI systems, and companies from Africa, focused on solving problems that matter.
 </div>
 
 <br/>
